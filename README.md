@@ -1,6 +1,6 @@
 # TSPOANet
 
-Integrating Part-Object Relationship and Contrast for Camouflaged Object Detection
+Employing Deep Part-Object Relationships for Salient Object Detection
 
 @inproceedings{liu2019employing,
 
